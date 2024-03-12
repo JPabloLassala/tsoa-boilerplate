@@ -1,0 +1,7 @@
+{
+  "name": "tsoa-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juan Pablo Lassala <jpablolassala@gmail.com>",
+  "license": "MIT"
+}
